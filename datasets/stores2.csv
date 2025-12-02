@@ -1,0 +1,31 @@
+store_id,store_name,branch,average_bags_at_9AM,average_overall_rating,price,longitude,latitude
+100,TBS,Zamalek,8,4.5,45.0,31.2226,30.0606
+200,Dunkin,New Cairo,12,4.2,35.0,31.4239,30.0272
+300,Costa Coffee,Maadi,6,4.7,50.0,31.2636,29.9602
+400,Cilantro,Heliopolis,10,4.3,40.0,31.3216,30.0875
+500,Beano's,6th October,7,4.1,38.0,30.9232,29.9668
+600,Paul,Zamalek,5,4.8,60.0,31.2195,30.0594
+700,Starbucks,New Cairo,15,4.4,55.0,31.4352,30.0331
+800,Cinnabon,Nasr City,9,4.0,42.0,31.3398,30.0566
+900,Auntie Anne's,Sheikh Zayed,11,3.9,30.0,30.9746,30.0208
+1000,Gourmet,Dokki,8,4.6,48.0,31.2115,30.0384
+1100,Cilantro,Nasr City,13,4.4,40.0,31.3502,30.0444
+1200,Costa Coffee,Sheikh Zayed,9,4.5,50.0,30.9821,30.0142
+1300,Beano's,Heliopolis,6,4.2,38.0,31.3305,30.0945
+1400,Cake Cafe,Zamalek,4,4.9,65.0,31.221,30.0615
+1500,Starbucks,Maadi,14,4.3,55.0,31.2547,29.9587
+1600,L'Aroma,Zamalek,5,4.7,52.0,31.2238,30.0623
+1700,Dunkin,Heliopolis,11,4.1,35.0,31.3158,30.0823
+1800,Coffeeshop Company,New Cairo,7,4.4,44.0,31.4285,30.0315
+1900,TBS,Maadi,10,4.6,45.0,31.2611,29.9641
+2000,Paul,New Cairo,6,4.7,60.0,31.4412,30.0289
+2100,Cinnabon,Sheikh Zayed,8,3.8,42.0,30.9688,30.0195
+2200,Gourmet,Heliopolis,9,4.5,48.0,31.3278,30.0892
+2300,Cilantro,Dokki,12,4.4,40.0,31.2089,30.0412
+2400,Starbucks,Nasr City,16,4.2,55.0,31.3425,30.0521
+2500,Sip Coffee,Zamalek,4,4.8,58.0,31.2203,30.0588
+2600,Beano's,Maadi,8,4.3,38.0,31.2588,29.9623
+2700,Costa Coffee,Heliopolis,7,4.6,50.0,31.3192,30.0858
+2800,Dunkin,Dokki,13,4.0,35.0,31.2145,30.0395
+2900,Auntie Anne's,New Cairo,10,3.9,30.0,31.4317,30.0348
+3000,Coffeeshop Company,Maadi,6,4.5,44.0,31.2569,29.9655
