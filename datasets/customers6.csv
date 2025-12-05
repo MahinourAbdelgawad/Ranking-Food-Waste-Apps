@@ -1,4 +1,4 @@
- customer_id,longitude,latitude,store200_valuation,store210_valuation,store220_valuation,store230_valuation,store240_valuation,store250_valuation,store260_valuation,store270_valuation,store280_valuation,store290_valuation,store300_valuation,store310_valuation,store320_valuation,store330_valuation,store340_valuation
+customer_id,longitude,latitude,store200_valuation,store210_valuation,store220_valuation,store230_valuation,store240_valuation,store250_valuation,store260_valuation,store270_valuation,store280_valuation,store290_valuation,store300_valuation,store310_valuation,store320_valuation,store330_valuation,store340_valuation
 1,31.0314,30.1433,1.0,0.0,2.2,1.5,3.9,4.0,3.5,3.3,3.9,2.7,4.0,0.0,0.0,3.5,1.8
 2,31.0803,29.9922,2.3,0.0,3.6,4.7,1.7,1.2,2.3,4.9,1.9,3.2,3.7,2.6,3.6,3.5,3.9
 3,31.5388,30.1157,0.0,1.1,4.8,2.0,2.8,3.8,0.0,4.6,2.2,1.9,3.9,4.9,5.0,3.8,1.4
