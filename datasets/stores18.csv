@@ -1,0 +1,16 @@
+store_id,store_name,branch,average_bags_at_9AM,average_overall_rating,price,longitude,latitude
+200,Illy,El Tagamoa,8,3.1,49.06,31.1739,30.1944
+210,Café Corniche,Dokki,26,4.3,55.46,31.5041,29.9589
+220,Brown Nose,New Cairo,14,3.5,34.35,31.2898,29.989
+230,Drip,Heliopolis,8,4.5,63.17,31.0898,30.0145
+240,Segafredo,October Plaza,8,3.4,64.51,31.4002,29.9861
+250,Pret A Manger,Maadi,26,2.0,41.58,31.1772,29.918
+260,Aperitivo,Mohandessin,12,2.7,44.92,31.1747,30.0997
+270,Casper & Gambini's,Rehab,29,1.9,36.07,31.3778,30.1149
+280,Costa Coffee,Agouza,29,3.3,46.83,31.5402,29.9862
+290,Brioche Dorée,Madinet Nasr,24,4.6,38.95,31.2563,30.0968
+300,Mince,Nasr City,5,2.6,28.72,31.3665,30.0308
+310,Pub 28,Nasr City,18,1.1,21.8,31.1809,30.1071
+320,Caffè Ritazza,Mohandessin,13,5.0,43.23,31.5019,30.0984
+330,Sequoia,El Tagamoa,28,2.4,19.69,31.3408,30.0285
+340,Caviar & Bull,6th October,18,4.4,43.89,31.3359,29.931

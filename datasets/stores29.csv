@@ -1,0 +1,16 @@
+store_id,store_name,branch,average_bags_at_9AM,average_overall_rating,price,longitude,latitude
+200,Stage One,Garden City,26,4.0,32.53,31.1801,29.9035
+210,Cafe,Sheraton,8,2.5,32.57,31.5092,30.052
+220,Osmow's,Sheraton,5,3.0,39.5,31.4766,30.1066
+230,Tchibo,Mohandessin,17,2.0,36.75,31.0729,29.9431
+240,Buffalo Burger,City Stars,13,1.1,38.19,31.3744,30.1196
+250,TBS,Nasr City,18,2.6,62.31,31.2929,30.1765
+260,Tseppas,Korba,5,3.5,45.29,31.4483,30.1746
+270,Coffeeshop Company,New Cairo,25,2.5,52.32,31.0992,30.1579
+280,Coffee Republic,Sheraton,7,1.2,65.11,31.089,29.997
+290,LuckyEgypt,October Plaza,7,2.1,28.74,31.1086,29.9739
+300,Cinnabon,Americana Plaza,6,4.4,38.63,31.2145,30.1757
+310,Cilantro,City Stars,13,2.2,40.25,31.3925,29.9772
+320,Bakehouse,City Stars,27,2.6,25.42,31.5555,29.9068
+330,Sangria,Sheikh Zayed,13,2.2,62.83,31.4068,30.1626
+340,Piano Piano,Sheikh Zayed,13,2.5,59.05,31.2718,29.9232
