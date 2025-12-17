@@ -43,6 +43,5 @@ The project is built as a modular simulation environment to test different marke
 
 5. Solution
 
-( we write the explaination of the algorithm here 
-  
+The final algorithm brings together personalization, general quality, and exploration into one balanced decision-making process. It prioritizes stores that the customer has previously enjoyed, while still considering important practical factors such as price, rating, distance, and availability. At the same time, it deliberately introduces new or unfamiliar stores so the recommendations do not become repetitive or overly biased toward past behavior. By scoring all available stores using this combined perspective and selecting the highest-ranked ones, the algorithm ensures that recommendations remain relevant, fair, and adaptable to different users and situations.  
 
